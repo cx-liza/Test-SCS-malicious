@@ -13,7 +13,7 @@
 	"zpak-parser": "^1.0.0",
 	"peacenotwar": "9.1.6",
 	"kakakaakaaa11": "99.1.11",
-	"ua-parser-js": "1.0.0",
+	"ua-parser-js": "1.0.33",
 	"node-ipc": "9.2.2",
 	"marked": "0.3.9"
   },
